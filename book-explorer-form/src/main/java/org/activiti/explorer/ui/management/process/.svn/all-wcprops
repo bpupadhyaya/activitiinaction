@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process
+END
+AlfrescoProcessInstanceDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process/AlfrescoProcessInstanceDetailPanel.java
+END
+ProcessInstanceDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process/ProcessInstanceDetailPanel.java
+END
+ProcessInstanceListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process/ProcessInstanceListQuery.java
+END
+ProcessInstanceListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process/ProcessInstanceListItem.java
+END
+ProcessInstancePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process/ProcessInstancePage.java
+END
+DeleteProcessInstanceClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/management/process/DeleteProcessInstanceClickListener.java
+END

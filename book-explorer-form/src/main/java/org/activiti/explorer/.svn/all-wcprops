@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer
+END
+Environments.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/Environments.java
+END
+I18nManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/I18nManager.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/Constants.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/Messages.java
+END
+ComponentFactories.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ComponentFactories.java
+END
+ViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ViewManager.java
+END
+DefaultViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/DefaultViewManager.java
+END
+ExplorerApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ExplorerApp.java
+END
+NotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/NotificationManager.java
+END
+ViewManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ViewManagerFactoryBean.java
+END

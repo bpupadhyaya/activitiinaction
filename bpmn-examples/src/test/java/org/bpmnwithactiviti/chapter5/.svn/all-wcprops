@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/244/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter5
+END
+MailTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/161/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter5/MailTaskTest.java
+END
+BarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/161/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter5/BarDeployer.java
+END
+MailTaskRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/161/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter5/MailTaskRemoteTest.java
+END
+FormServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/161/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter5/FormServiceTest.java
+END
+LoanRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/244/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter5/LoanRequestTest.java
+END

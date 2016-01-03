@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/209/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/multiinstance
+END
+Vote.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/multiinstance/Vote.java
+END
+CreateAssigneeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/multiinstance/CreateAssigneeList.java
+END
+PublishVotePoll.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/multiinstance/PublishVotePoll.java
+END
+AddDecisionVote.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/209/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/multiinstance/AddDecisionVote.java
+END
+DecisionVoting.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/multiinstance/DecisionVoting.java
+END

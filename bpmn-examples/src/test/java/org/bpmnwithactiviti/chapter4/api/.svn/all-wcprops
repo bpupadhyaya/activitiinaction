@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/237/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter4/api
+END
+RuntimeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/231/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter4/api/RuntimeServiceTest.java
+END
+RepositoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/234/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter4/api/RepositoryServiceTest.java
+END
+IdentityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/235/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter4/api/IdentityServiceTest.java
+END
+HistoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/237/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter4/api/HistoryServiceTest.java
+END
+TaskServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/233/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter4/api/TaskServiceTest.java
+END

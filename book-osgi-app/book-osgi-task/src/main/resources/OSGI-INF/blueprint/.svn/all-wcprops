@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/200/trunk/book-osgi-app/book-osgi-task/src/main/resources/OSGI-INF/blueprint
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/200/trunk/book-osgi-app/book-osgi-task/src/main/resources/OSGI-INF/blueprint/context.xml
+END

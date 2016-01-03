@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/302/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter12/logic
+END
+CreditCheckRuleRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/302/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter12/logic/CreditCheckRuleRunner.java
+END
+CreditCheckDecisionTableRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/182/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter12/logic/CreditCheckDecisionTableRunner.java
+END

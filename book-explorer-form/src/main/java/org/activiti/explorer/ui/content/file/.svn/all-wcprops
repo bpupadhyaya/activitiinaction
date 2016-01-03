@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/file
+END
+FileAttachmentEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/file/FileAttachmentEditor.java
+END
+PdfAttachmentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/file/PdfAttachmentRenderer.java
+END
+ImageAttachmentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/file/ImageAttachmentRenderer.java
+END
+FileAttachmentEditorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/file/FileAttachmentEditorComponent.java
+END

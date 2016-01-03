@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/296/trunk/bpmn-examples/src/test/resources
+END
+activiti.cfg-mem-mail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/bpmn-examples/src/test/resources/activiti.cfg-mem-mail.xml
+END
+activiti.cfg-mem-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/bpmn-examples/src/test/resources/activiti.cfg-mem-rules.xml
+END
+activiti.cfg-mem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/bpmn-examples/src/test/resources/activiti.cfg-mem.xml
+END
+activiti.cfg-mem-job.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bpmn-examples/src/test/resources/activiti.cfg-mem-job.xml
+END
+activiti.cfg-mem-fullhistory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bpmn-examples/src/test/resources/activiti.cfg-mem-fullhistory.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/279/trunk/book-camel/src/main/resources
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/55/trunk/book-camel/src/main/resources/logging.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/55/trunk/book-camel/src/main/resources/log4j.xml
+END

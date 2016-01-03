@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/253/trunk/bpmn-examples/src/main/resources/chapter6/listener
+END
+processEventListener.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/253/trunk/bpmn-examples/src/main/resources/chapter6/listener/processEventListener.bpmn20.xml
+END
+gossip-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/165/trunk/bpmn-examples/src/main/resources/chapter6/listener/gossip-application-context.xml
+END

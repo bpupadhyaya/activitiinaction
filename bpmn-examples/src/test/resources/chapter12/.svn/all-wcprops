@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/182/trunk/bpmn-examples/src/test/resources/chapter12
+END
+CreditCheckTest.drl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/182/trunk/bpmn-examples/src/test/resources/chapter12/CreditCheckTest.drl
+END
+creditCheckRules.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/157/trunk/bpmn-examples/src/test/resources/chapter12/creditCheckRules.bpmn20.xml
+END

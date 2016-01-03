@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/252/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter6/listener
+END
+GossipAboutUserTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/252/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter6/listener/GossipAboutUserTask.java
+END
+GossipAboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/165/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter6/listener/GossipAboutActivity.java
+END
+EventUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter6/listener/EventUtil.java
+END
+GossipAboutTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter6/listener/GossipAboutTransition.java
+END
+GossipAboutProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter6/listener/GossipAboutProcess.java
+END

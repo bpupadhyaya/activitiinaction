@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/173/trunk/book-bam-app/src/main/java/org/bpmnwithactiviti/chapter14/bam/event
+END
+LoanRequestProcessedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/173/trunk/book-bam-app/src/main/java/org/bpmnwithactiviti/chapter14/bam/event/LoanRequestProcessedEvent.java
+END
+LoanRequestReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/173/trunk/book-bam-app/src/main/java/org/bpmnwithactiviti/chapter14/bam/event/LoanRequestReceivedEvent.java
+END

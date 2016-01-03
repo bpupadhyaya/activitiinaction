@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/identity
+END
+LoggedInUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/identity/LoggedInUser.java
+END
+LoggedInUserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/identity/LoggedInUserImpl.java
+END

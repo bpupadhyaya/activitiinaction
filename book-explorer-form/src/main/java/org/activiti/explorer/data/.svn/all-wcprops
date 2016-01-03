@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/data
+END
+LazyLoadingQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/data/LazyLoadingQuery.java
+END
+MapItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/data/MapItem.java
+END
+LazyLoadingContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/data/LazyLoadingContainer.java
+END
+AbstractLazyLoadingQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/data/AbstractLazyLoadingQuery.java
+END

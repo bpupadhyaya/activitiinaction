@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data
+END
+HistoricTaskWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/HistoricTaskWrapper.java
+END
+TasksListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/TasksListQuery.java
+END
+ArchivedListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/ArchivedListQuery.java
+END
+QueuedListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/QueuedListQuery.java
+END
+TaskListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/TaskListItem.java
+END
+InboxListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/InboxListQuery.java
+END
+AbstractTaskListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/AbstractTaskListQuery.java
+END
+InvolvedListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/task/data/InvolvedListQuery.java
+END

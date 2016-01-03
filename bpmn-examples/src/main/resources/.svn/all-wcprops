@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/313/trunk/bpmn-examples/src/main/resources
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bpmn-examples/src/main/resources/logging.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/bpmn-examples/src/main/resources/log4j.xml
+END
+activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/bpmn-examples/src/main/resources/activiti.cfg.xml
+END

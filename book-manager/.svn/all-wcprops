@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/319/trunk/book-manager
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/216/trunk/book-manager/logging.properties
+END
+start-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/216/trunk/book-manager/start-server.sh
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/319/trunk/book-manager/pom.xml
+END

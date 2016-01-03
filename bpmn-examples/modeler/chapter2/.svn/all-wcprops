@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/312/trunk/bpmn-examples/modeler/chapter2
+END
+BookOrderProcess.signavio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/312/trunk/bpmn-examples/modeler/chapter2/BookOrderProcess.signavio.xml
+END
+PaymentProcess.signavio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/312/trunk/bpmn-examples/modeler/chapter2/PaymentProcess.signavio.xml
+END
+BookOrderProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/312/trunk/bpmn-examples/modeler/chapter2/BookOrderProcess.bpmn20.xml
+END
+PaymentProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/312/trunk/bpmn-examples/modeler/chapter2/PaymentProcess.bpmn20.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/183/trunk/book-rules-app/src/main/java/org/bpmnwithactiviti/chapter12/rules/ui
+END
+DeploymentTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/183/trunk/book-rules-app/src/main/java/org/bpmnwithactiviti/chapter12/rules/ui/DeploymentTable.java
+END
+ViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/183/trunk/book-rules-app/src/main/java/org/bpmnwithactiviti/chapter12/rules/ui/ViewManager.java
+END
+ActionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/183/trunk/book-rules-app/src/main/java/org/bpmnwithactiviti/chapter12/rules/ui/ActionsPanel.java
+END
+EditRulesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/183/trunk/book-rules-app/src/main/java/org/bpmnwithactiviti/chapter12/rules/ui/EditRulesPanel.java
+END
+RuleFileTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/183/trunk/book-rules-app/src/main/java/org/bpmnwithactiviti/chapter12/rules/ui/RuleFileTable.java
+END

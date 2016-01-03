@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment
+END
+DeploymentDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment/DeploymentDetailPanel.java
+END
+DeleteDeploymentPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment/DeleteDeploymentPopupWindow.java
+END
+NewDeploymentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment/NewDeploymentListener.java
+END
+DeploymentListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment/DeploymentListQuery.java
+END
+DeploymentUploadReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment/DeploymentUploadReceiver.java
+END
+DeploymentPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/deployment/DeploymentPage.java
+END

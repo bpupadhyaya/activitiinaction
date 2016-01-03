@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap
+END
+LDAPUserManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap/LDAPUserManagerFactory.java
+END
+LDAPConnectionParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap/LDAPConnectionParams.java
+END
+LDAPUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap/LDAPUserManager.java
+END
+LDAPConnectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap/LDAPConnectionUtil.java
+END
+LDAPGroupManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap/LDAPGroupManagerFactory.java
+END
+LDAPGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/205/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter10/ldap/LDAPGroupManager.java
+END

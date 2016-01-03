@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/resources/org/activiti/explorer/demo/process
+END
+oneTaskProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/resources/org/activiti/explorer/demo/process/oneTaskProcess.bpmn20.xml
+END
+testProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/resources/org/activiti/explorer/demo/process/testProcess.bpmn20.xml
+END
+createTimersProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/resources/org/activiti/explorer/demo/process/createTimersProcess.bpmn20.xml
+END

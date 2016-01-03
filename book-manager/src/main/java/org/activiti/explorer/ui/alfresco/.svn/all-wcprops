@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco
+END
+AlfrescoProcessDefinitionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/AlfrescoProcessDefinitionPage.java
+END
+AlfrescoManagementMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/AlfrescoManagementMenuBar.java
+END
+AlfrescoProcessInstanceTableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/AlfrescoProcessInstanceTableItem.java
+END
+ProcessInstanceTableLazyQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/ProcessInstanceTableLazyQuery.java
+END
+AlfrescoMainMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/AlfrescoMainMenuBar.java
+END
+AlfrescoViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/AlfrescoViewManager.java
+END
+AlfrescoProcessDefinitionDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/alfresco/AlfrescoProcessDefinitionDetailPanel.java
+END

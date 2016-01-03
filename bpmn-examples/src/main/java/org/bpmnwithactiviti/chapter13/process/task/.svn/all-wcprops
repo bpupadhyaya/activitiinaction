@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/313/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter13/process/task
+END
+PDFLetterTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/313/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter13/process/task/PDFLetterTask.java
+END
+POICMISHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/313/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter13/process/task/POICMISHelper.java
+END
+CreditCheckCMISTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/213/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter13/process/task/CreditCheckCMISTask.java
+END
+EvaluationCMISTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/213/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter13/process/task/EvaluationCMISTask.java
+END
+ManagerCheckUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/213/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter13/process/task/ManagerCheckUpdate.java
+END

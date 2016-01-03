@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit
+END
+YearTimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit/YearTimeUnit.java
+END
+DayTimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit/DayTimeUnit.java
+END
+MinuteTimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit/MinuteTimeUnit.java
+END
+WeekTimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit/WeekTimeUnit.java
+END
+HourTimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit/HourTimeUnit.java
+END
+MonthTimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/util/time/timeunit/MonthTimeUnit.java
+END

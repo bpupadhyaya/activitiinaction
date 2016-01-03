@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process
+END
+MyProcessInstancesListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/MyProcessInstancesListQuery.java
+END
+ProcessDefinitionInfoComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessDefinitionInfoComponent.java
+END
+MyProcessInstancesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/MyProcessInstancesPage.java
+END
+ProcessDefinitionListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessDefinitionListQuery.java
+END
+ProcessInstanceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessInstanceItem.java
+END
+ProcessMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessMenuBar.java
+END
+ProcessDefinitionImageStreamResourceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessDefinitionImageStreamResourceBuilder.java
+END
+ProcessInstancePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessInstancePage.java
+END
+ProcessDefinitionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessDefinitionPage.java
+END
+ProcessDefinitionDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/process/ProcessDefinitionDetailPanel.java
+END

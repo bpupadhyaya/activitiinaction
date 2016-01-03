@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/event
+END
+ConfirmationEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/event/ConfirmationEventListener.java
+END
+SubmitEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/event/SubmitEventListener.java
+END
+ConfirmationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/event/ConfirmationEvent.java
+END
+SubmitEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/event/SubmitEvent.java
+END
