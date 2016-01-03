@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/218/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter4/java
+END
+ValidateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter4/java/ValidateService.java
+END
+ValidateServiceWithFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter4/java/ValidateServiceWithFields.java
+END
+BookOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/150/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter4/java/BookOrder.java
+END
+LongValidateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/218/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter4/java/LongValidateService.java
+END

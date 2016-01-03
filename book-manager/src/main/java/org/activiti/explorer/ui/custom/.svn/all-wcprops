@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom
+END
+TabbedSelectionWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/TabbedSelectionWindow.java
+END
+TaskListHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/TaskListHeader.java
+END
+SelectUsersPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/SelectUsersPopupWindow.java
+END
+ThemeImageColumnGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/ThemeImageColumnGenerator.java
+END
+ToolbarPopupEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/ToolbarPopupEntry.java
+END
+ConfirmationDialogPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/ConfirmationDialogPopupWindow.java
+END
+UploadComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/UploadComponent.java
+END
+PopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/PopupWindow.java
+END
+UploadPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/UploadPopupWindow.java
+END
+ToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/ToolBar.java
+END
+UserProfileLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/UserProfileLink.java
+END
+ToolbarEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/ToolbarEntry.java
+END
+InMemoryUploadReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/InMemoryUploadReceiver.java
+END
+DetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/DetailPanel.java
+END
+PrettyTimeLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/custom/PrettyTimeLabel.java
+END

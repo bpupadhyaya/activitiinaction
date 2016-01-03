@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/profile
+END
+AccountSelectionPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/profile/AccountSelectionPopup.java
+END
+ProfilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/profile/ProfilePanel.java
+END
+ProfilePopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/profile/ProfilePopupWindow.java
+END
+ChangePasswordPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/profile/ChangePasswordPopupWindow.java
+END

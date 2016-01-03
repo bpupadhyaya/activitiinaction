@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/246/trunk/bpmn-examples/src/main/resources/chapter6/embedded_subprocess
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/245/trunk/bpmn-examples/src/main/resources/chapter6/embedded_subprocess/build.xml
+END
+jiraIssue.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/246/trunk/bpmn-examples/src/main/resources/chapter6/embedded_subprocess/jiraIssue.bpmn20.xml
+END

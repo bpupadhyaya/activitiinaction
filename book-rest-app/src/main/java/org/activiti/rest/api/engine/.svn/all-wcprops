@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/engine
+END
+ProcessEngineInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/engine/ProcessEngineInfoResponse.java
+END
+ProcessEngineResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/engine/ProcessEngineResource.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/172/trunk/book-sales-app/src/main/resources
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/64/trunk/book-sales-app/src/main/resources/log4j.xml
+END
+sales-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/172/trunk/book-sales-app/src/main/resources/sales-persistence.xml
+END
+sales-testdata-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/172/trunk/book-sales-app/src/main/resources/sales-testdata-persistence.xml
+END
+sales-testdata-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/172/trunk/book-sales-app/src/main/resources/sales-testdata-context.xml
+END

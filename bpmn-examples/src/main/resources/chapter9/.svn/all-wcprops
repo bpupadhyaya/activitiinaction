@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/260/trunk/bpmn-examples/src/main/resources/chapter9
+END
+spring-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/260/trunk/bpmn-examples/src/main/resources/chapter9/spring-application-context.xml
+END
+bookorder.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/bpmn-examples/src/main/resources/chapter9/bookorder.bpmn20.xml
+END

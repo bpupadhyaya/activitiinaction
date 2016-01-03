@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation
+END
+UserNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/UserNavigator.java
+END
+NavigationFragmentChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/NavigationFragmentChangeListener.java
+END
+ProcessNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/ProcessNavigator.java
+END
+MyProcessesNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/MyProcessesNavigator.java
+END
+DatabaseNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/DatabaseNavigator.java
+END
+UriFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/UriFragment.java
+END
+JobNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/JobNavigator.java
+END
+GroupNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/GroupNavigator.java
+END
+Navigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/Navigator.java
+END
+DefaultNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/DefaultNavigator.java
+END
+NavigatorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/NavigatorManager.java
+END
+ManagementNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/ManagementNavigator.java
+END
+ProcessInstanceNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/ProcessInstanceNavigator.java
+END
+DeploymentNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/DeploymentNavigator.java
+END
+TaskNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/navigation/TaskNavigator.java
+END

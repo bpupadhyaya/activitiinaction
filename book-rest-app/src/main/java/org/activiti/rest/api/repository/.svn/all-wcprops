@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository
+END
+DeploymentDeleteResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository/DeploymentDeleteResource.java
+END
+DeploymentsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository/DeploymentsResource.java
+END
+DeploymentsDeleteResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository/DeploymentsDeleteResource.java
+END
+DeploymentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository/DeploymentResponse.java
+END
+DeploymentUploadResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository/DeploymentUploadResource.java
+END
+DeploymentsPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/repository/DeploymentsPaginateList.java
+END

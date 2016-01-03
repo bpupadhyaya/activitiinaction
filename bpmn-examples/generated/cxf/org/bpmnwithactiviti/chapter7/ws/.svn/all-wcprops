@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/Customer.java
+END
+CustomerServiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/CustomerServiceService.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/ObjectFactory.java
+END
+FindCustomerByIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/FindCustomerByIdResponse.java
+END
+StoreSalesOpportunityResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/StoreSalesOpportunityResponse.java
+END
+FindCustomerById.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/FindCustomerById.java
+END
+FindCustomerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/FindCustomerResponse.java
+END
+StoreSalesOpportunity.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/StoreSalesOpportunity.java
+END
+FindCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/FindCustomer.java
+END
+CustomerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/CustomerService.java
+END
+SalesOpportunity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/SalesOpportunity.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/167/trunk/bpmn-examples/generated/cxf/org/bpmnwithactiviti/chapter7/ws/package-info.java
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+319
+http://activitiinaction.googlecode.com/svn/trunk/book-osgi-app
+http://activitiinaction.googlecode.com/svn
+
+
+
+2012-05-31T20:09:48.944515Z
+319
+tijs.rademakers
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a29e19ff-66de-9391-0f37-b916ae5d8a96
+
+book-osgi-engine
+dir
+
+book-osgi-features
+dir
+
+book-osgi-karaf
+dir
+
+book-osgi-process
+dir
+
+book-osgi-task
+dir
+
+pom.xml
+file
+
+
+
+
+2012-05-31T20:17:40.000000Z
+186cdff196ae18f839c325cf12d07dd9
+2012-05-31T20:09:48.944515Z
+319
+tijs.rademakers
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4508
+

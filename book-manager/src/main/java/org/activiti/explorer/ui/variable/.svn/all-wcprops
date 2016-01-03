@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/variable
+END
+VariableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/variable/VariableRenderer.java
+END
+VariableRendererManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/variable/VariableRendererManager.java
+END
+VariableRendererConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/variable/VariableRendererConfigurer.java
+END

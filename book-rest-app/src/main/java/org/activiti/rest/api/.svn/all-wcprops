@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/172/trunk/book-rest-app/src/main/java/org/activiti/rest/api
+END
+DefaultResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/DefaultResource.java
+END
+SecuredResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/SecuredResource.java
+END
+DataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/DataResponse.java
+END
+AbstractPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/AbstractPaginateList.java
+END
+DefaultPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/DefaultPaginateList.java
+END
+RequestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/RequestUtil.java
+END
+ActivitiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/ActivitiUtil.java
+END

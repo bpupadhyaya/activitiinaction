@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/202/trunk/book-cdi-app/src/main/resources
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/202/trunk/book-cdi-app/src/main/resources/logging.properties
+END
+processes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/202/trunk/book-cdi-app/src/main/resources/processes.xml
+END
+activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/202/trunk/book-cdi-app/src/main/resources/activiti.cfg.xml
+END

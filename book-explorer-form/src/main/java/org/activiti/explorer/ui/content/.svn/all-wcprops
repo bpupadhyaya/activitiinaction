@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content
+END
+AttachmentEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/AttachmentEditor.java
+END
+RelatedContentComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/RelatedContentComponent.java
+END
+AttachmentEditorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/AttachmentEditorComponent.java
+END
+CreateAttachmentPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/CreateAttachmentPopupWindow.java
+END
+GenericAttachmentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/GenericAttachmentRenderer.java
+END
+AttachmentDetailPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/AttachmentDetailPopupWindow.java
+END
+AttachmentRendererManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/AttachmentRendererManager.java
+END
+AttachmentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/content/AttachmentRenderer.java
+END

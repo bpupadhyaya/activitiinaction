@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/257/trunk/bpmn-examples/src/main/resources/chapter7/errorjava
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/257/trunk/bpmn-examples/src/main/resources/chapter7/errorjava/build.xml
+END
+opportunity-java.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/256/trunk/bpmn-examples/src/main/resources/chapter7/errorjava/opportunity-java.bpmn20.xml
+END

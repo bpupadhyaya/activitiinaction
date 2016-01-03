@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task
+END
+TaskOperationResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TaskOperationResource.java
+END
+TasksResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TasksResource.java
+END
+TaskFormResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TaskFormResource.java
+END
+TaskResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TaskResponse.java
+END
+TaskPropertiesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TaskPropertiesResource.java
+END
+TasksSummaryResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TasksSummaryResource.java
+END
+TasksPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TasksPaginateList.java
+END
+TaskResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/task/TaskResource.java
+END

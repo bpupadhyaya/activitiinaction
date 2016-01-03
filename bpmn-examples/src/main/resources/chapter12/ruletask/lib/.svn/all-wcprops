@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/285/trunk/bpmn-examples/src/main/resources/chapter12/ruletask/lib
+END
+antlr-runtime-3.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/182/trunk/bpmn-examples/src/main/resources/chapter12/ruletask/lib/antlr-runtime-3.1.3.jar
+END
+mvel2-2.1.0.drools4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/285/trunk/bpmn-examples/src/main/resources/chapter12/ruletask/lib/mvel2-2.1.0.drools4.jar
+END
+drools-core-5.3.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/285/trunk/bpmn-examples/src/main/resources/chapter12/ruletask/lib/drools-core-5.3.0.Final.jar
+END
+drools-compiler-5.3.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/285/trunk/bpmn-examples/src/main/resources/chapter12/ruletask/lib/drools-compiler-5.3.0.Final.jar
+END
+knowledge-api-5.3.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/285/trunk/bpmn-examples/src/main/resources/chapter12/ruletask/lib/knowledge-api-5.3.0.Final.jar
+END

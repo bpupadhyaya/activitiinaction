@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/205/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter10/ldap
+END
+LDAPGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/205/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter10/ldap/LDAPGroupTest.java
+END
+LDAPUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/205/trunk/bpmn-examples/src/test/java/org/bpmnwithactiviti/chapter10/ldap/LDAPUserTest.java
+END

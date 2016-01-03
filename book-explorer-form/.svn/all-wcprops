@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/319/trunk/book-explorer-form
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/207/trunk/book-explorer-form/logging.properties
+END
+start-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/207/trunk/book-explorer-form/start-server.sh
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/319/trunk/book-explorer-form/pom.xml
+END

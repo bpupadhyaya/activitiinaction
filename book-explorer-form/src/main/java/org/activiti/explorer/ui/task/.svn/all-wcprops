@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task
+END
+PriorityLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/PriorityLabel.java
+END
+HistoricTaskDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/HistoricTaskDetailPanel.java
+END
+TaskMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskMenuBar.java
+END
+TaskDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskDetailPanel.java
+END
+NewCasePopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/NewCasePopupWindow.java
+END
+TaskRelatedContentComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskRelatedContentComponent.java
+END
+TaskEventTextResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskEventTextResolver.java
+END
+UserDetailsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/UserDetailsComponent.java
+END
+TaskEventsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskEventsPanel.java
+END
+TaskInvolvedPeopleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskInvolvedPeopleComponent.java
+END
+QueuedPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/QueuedPage.java
+END
+DescriptionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/DescriptionComponent.java
+END
+PriorityComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/PriorityComboBox.java
+END
+TasksPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TasksPage.java
+END
+DueDateComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/DueDateComponent.java
+END
+PriorityComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/PriorityComponent.java
+END
+SubTaskComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/SubTaskComponent.java
+END
+InvolvedPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/InvolvedPage.java
+END
+InboxPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/InboxPage.java
+END
+TaskPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/TaskPage.java
+END
+ArchivedPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/ui/task/ArchivedPage.java
+END

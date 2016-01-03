@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/308/trunk/bpmn-examples/src/main/resources/chapter6/parallel
+END
+parallelGateway.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/308/trunk/bpmn-examples/src/main/resources/chapter6/parallel/parallelGateway.bpmn20.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/247/trunk/bpmn-examples/src/main/resources/chapter6/parallel/build.xml
+END

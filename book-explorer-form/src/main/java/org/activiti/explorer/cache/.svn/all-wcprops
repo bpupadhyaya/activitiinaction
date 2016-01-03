@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/Visitor.java
+END
+VisitorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/VisitorImpl.java
+END
+TrieBasedUserCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/TrieBasedUserCache.java
+END
+DuplicateKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/DuplicateKeyException.java
+END
+UserCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/UserCache.java
+END
+UserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/UserDetails.java
+END
+RadixTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/RadixTreeNode.java
+END
+UserCacheFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/UserCacheFactoryBean.java
+END
+RadixTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/RadixTree.java
+END
+RadixTreeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/207/trunk/book-explorer-form/src/main/java/org/activiti/explorer/cache/RadixTreeImpl.java
+END

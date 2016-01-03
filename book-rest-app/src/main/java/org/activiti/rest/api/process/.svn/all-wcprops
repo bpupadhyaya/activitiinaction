@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process
+END
+ProcessInstancesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessInstancesResponse.java
+END
+ProcessDefinitionsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessDefinitionsResource.java
+END
+ProcessInstanceDiagramResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessInstanceDiagramResource.java
+END
+ProcessInstancesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessInstancesResource.java
+END
+ProcessDefinitionsPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessDefinitionsPaginateList.java
+END
+ProcessInstanceResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessInstanceResponse.java
+END
+ProcessDefinitionFormResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessDefinitionFormResource.java
+END
+ProcessInstancesPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessInstancesPaginateList.java
+END
+ProcessDefinitionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessDefinitionResponse.java
+END
+ProcessInstanceResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/process/ProcessInstanceResource.java
+END

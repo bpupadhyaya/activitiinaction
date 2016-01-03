@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management
+END
+JobResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/JobResponse.java
+END
+JobsExecuteResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/JobsExecuteResource.java
+END
+TableResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/TableResource.java
+END
+JobsPaginateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/JobsPaginateList.java
+END
+JobResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/JobResource.java
+END
+JobExecuteResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/JobExecuteResource.java
+END
+TableDataResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/TableDataResource.java
+END
+JobsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/JobsResource.java
+END
+TablesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/170/trunk/book-rest-app/src/main/java/org/activiti/rest/api/management/TablesResource.java
+END

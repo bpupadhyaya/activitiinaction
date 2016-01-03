@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/job
+END
+JobListQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/job/JobListQuery.java
+END
+JobPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/job/JobPage.java
+END
+JobDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/216/trunk/book-manager/src/main/java/org/activiti/explorer/ui/management/job/JobDetailPanel.java
+END

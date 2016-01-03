@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/172/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter8/transaction
+END
+TransactionalBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/172/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter8/transaction/TransactionalBean.java
+END
+ErrorServiceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/172/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter8/transaction/ErrorServiceTask.java
+END

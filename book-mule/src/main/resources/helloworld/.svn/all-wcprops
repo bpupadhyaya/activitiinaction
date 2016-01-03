@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/176/trunk/book-mule/src/main/resources/helloworld
+END
+helloworld.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/67/trunk/book-mule/src/main/resources/helloworld/helloworld.bpmn20.xml
+END
+application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/176/trunk/book-mule/src/main/resources/helloworld/application-context.xml
+END
+activiti-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/176/trunk/book-mule/src/main/resources/helloworld/activiti-application-context.xml
+END

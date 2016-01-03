@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/204/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter9
+END
+ProcessInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/204/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter9/ProcessInitiator.java
+END
+ValidateOrderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/204/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter9/ValidateOrderTask.java
+END
+BookOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/204/trunk/bpmn-examples/src/main/java/org/bpmnwithactiviti/chapter9/BookOrder.java
+END

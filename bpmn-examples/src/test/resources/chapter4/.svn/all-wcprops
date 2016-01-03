@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/241/trunk/bpmn-examples/src/test/resources/chapter4
+END
+spring-test-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/241/trunk/bpmn-examples/src/test/resources/chapter4/spring-test-application-context.xml
+END
+spring-nodeployment-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/160/trunk/bpmn-examples/src/test/resources/chapter4/spring-nodeployment-application-context.xml
+END
